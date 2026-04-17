@@ -1,6 +1,6 @@
 
 
-// recipe_model.dart
+// Model
 
 class Recipe {
   final String title;
